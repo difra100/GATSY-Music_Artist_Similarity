@@ -12,7 +12,7 @@ bash install_pyg.sh
 ```
 pip install -r requirements.txt
 ```
-To reproduce the experiments, you need to download the data at this ![link](https://limewire.com/d/c1f20af5-5217-4371-89ec-2e56ce8c1fca#mZNh0GXSn8cGr3jb27mGtg6pAyrAjdstwTjIGXjPD6I). 
+To reproduce the experiments, you need to download the data at this [link](https://limewire.com/d/c1f20af5-5217-4371-89ec-2e56ce8c1fca#mZNh0GXSn8cGr3jb27mGtg6pAyrAjdstwTjIGXjPD6I). 
 
 Then, to reproduce the experiments with full data, you should access the full data folder, and run  
 
