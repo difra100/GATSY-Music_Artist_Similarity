@@ -1,4 +1,6 @@
 # GATSY: Music Artist Similarity with Graph Attention Network  
+Paper **Accepted** at [IJCNN 2025](https://2025.ijcnn.org/) for presentation.  
+
 Create a new conda environment:  
 ```
 conda create -n GATSY python=3.9 && conda activate GATSY && conda install pip
